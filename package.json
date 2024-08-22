@@ -4,13 +4,13 @@
   "description": "",
   "keywords": [],
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/keldaanCommunity/pokemonAutoChess#readme",
+  "homepage": "https://github.com/94Philipp/pokeautochess/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keldaanCommunity/pokemonAutoChess.git"
+    "url": "git+https://github.com/94Philipp/pokeautochess/.git"
   },
   "bugs": {
-    "url": "https://github.com/keldaanCommunity/pokemonAutoChess/issues"
+    "url": "https://github.com/94Philipp/pokeautochess//issues"
   },
   "author": "keldaan-ag",
   "contributors": [
